@@ -1,4 +1,4 @@
-# X360 Ace V1
+# X360 ACE V1
 
 PCB Thickness: 1.0mm
 
